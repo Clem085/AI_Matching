@@ -1,0 +1,61 @@
+SupervisorID,Timestamp,Email Address,Name,State,Who can you supervise?,Availability,Capacity
+S000,,casey.patel@sample.org,Casey Patel,CA,"LCSW, LMSW, LPCC","Mon PM, Sat PM, Wed AM, Mon AM, Sat Eve",4
+S001,,sam.garcia@mail.net,Sam Garcia,SC,"LMHC, LCSW, LPCC","Mon PM, Fri AM, Sat Eve, Tue AM",1
+S002,,jordan.nguyen@sample.org,Jordan Nguyen,CA,LPCC,"Thu AM, Tue Eve, Tue AM",2
+S003,,sam.davis@sample.org,Sam Davis,SC,"LCSW, LPCC, LMFT","Sat Eve, Fri PM, Thu PM, Wed PM, Thu AM, Fri Eve",3
+S004,,taylor.patel@mail.net,Taylor Patel,GA,LPCC,"Sat PM, Sat AM, Thu PM, Thu Eve, Wed PM",3
+S005,,sam.kim@mail.net,Sam Kim,PA,"LMFT, LPC","Sat AM, Fri PM, Mon PM, Thu PM",1
+S006,,cameron.hernandez@example.com,Cameron Hernandez,TX,"LPC, LPCC, LMHC","Mon Eve, Sat Eve, Wed Eve, Wed PM, Thu Eve, Thu PM",1
+S007,,quinn.clark@sample.org,Quinn Clark,FL,"LPCC, LMHC, LPC","Thu Eve, Mon AM, Fri Eve, Tue Eve, Mon Eve, Thu AM",1
+S008,,alex.garcia@sample.org,Alex Garcia,FL,LMSW,"Fri AM, Sat Eve, Sat AM, Mon PM",2
+S009,,riley.davis@example.com,Riley Davis,FL,LMHC,"Fri PM, Thu Eve, Fri AM, Tue AM, Mon Eve",1
+S010,,jordan.garcia@mail.net,Jordan Garcia,GA,LMHC,"Wed Eve, Thu AM, Mon AM, Mon Eve",4
+S011,,casey.wilson@sample.org,Casey Wilson,OH,"LMFT, LPCC","Fri Eve, Fri AM, Sat PM",4
+S012,,sam.brown@sample.org,Sam Brown,CA,LMFT,"Wed AM, Fri Eve, Tue Eve",1
+S013,,cameron.lee@example.com,Cameron Lee,SC,LPCC,"Sat Eve, Tue AM, Thu Eve, Thu AM",1
+S014,,taylor.wilson@sample.org,Taylor Wilson,CA,LMSW,"Thu Eve, Sat Eve, Sat AM, Mon PM, Fri Eve",4
+S015,,avery.brown@mail.net,Avery Brown,FL,LMFT,"Thu PM, Wed Eve, Sat AM",2
+S016,,alex.garcia@mail.net,Alex Garcia,PA,"LMFT, LPCC","Sat PM, Thu AM, Mon Eve",3
+S017,,casey.patel@example.com,Casey Patel,TX,LPCC,"Wed PM, Wed AM, Sat Eve, Fri PM, Sat PM",2
+S018,,jamie.brown@sample.org,Jamie Brown,TX,"LCSW, LMSW, LPC","Wed Eve, Wed AM, Thu Eve, Wed PM, Fri AM, Sat AM",3
+S019,,sam.garcia@sample.org,Sam Garcia,SC,LMHC,"Thu PM, Wed AM, Sat AM, Thu AM",1
+S020,,drew.hernandez@sample.org,Drew Hernandez,SC,"LCSW, LMHC, LMFT","Tue Eve, Fri PM, Thu PM, Mon PM, Fri AM, Thu Eve",4
+S021,,riley.clark@mail.net,Riley Clark,SC,"LMFT, LMSW, LPCC","Tue PM, Fri Eve, Sat Eve",4
+S022,,casey.patel@example.com,Casey Patel,PA,"LMFT, LCSW, LPCC","Sat PM, Tue PM, Fri PM",2
+S023,,alex.nguyen@sample.org,Alex Nguyen,GA,"LPCC, LMFT","Wed Eve, Fri PM, Tue PM, Mon AM, Thu Eve",3
+S024,,drew.wilson@example.com,Drew Wilson,PA,"LPCC, LMFT","Sat PM, Sat Eve, Mon AM, Fri PM",4
+S025,,cameron.lee@example.com,Cameron Lee,VA,LMFT,"Tue AM, Mon PM, Thu PM, Sat AM, Wed Eve, Fri PM",4
+S026,,jamie.lee@example.com,Jamie Lee,GA,LPC,"Tue AM, Sat PM, Fri Eve",1
+S027,,avery.hernandez@mail.net,Avery Hernandez,OH,"LPCC, LMSW, LMFT","Fri Eve, Sat PM, Sat AM, Wed Eve, Tue AM",3
+S028,,taylor.brown@example.com,Taylor Brown,VA,"LCSW, LMHC","Thu PM, Mon Eve, Wed PM, Wed AM, Mon PM, Tue AM",3
+S029,,jordan.clark@example.com,Jordan Clark,TX,LPC,"Fri Eve, Wed PM, Tue AM, Wed AM",4
+S030,,drew.garcia@example.com,Drew Garcia,VA,"LMHC, LPCC, LMSW","Fri PM, Wed AM, Thu Eve, Tue Eve, Mon PM",3
+S031,,casey.davis@example.com,Casey Davis,NY,"LMSW, LCSW","Thu PM, Sat PM, Thu AM, Wed Eve, Mon PM, Fri PM",2
+S032,,sam.nguyen@mail.net,Sam Nguyen,FL,LMFT,"Tue PM, Fri PM, Wed Eve, Wed AM, Mon Eve",4
+S033,,casey.kim@sample.org,Casey Kim,FL,LMSW,"Fri PM, Mon Eve, Wed Eve, Mon AM",1
+S034,,sam.wilson@sample.org,Sam Wilson,GA,LPC,"Fri Eve, Mon AM, Thu PM",4
+S035,,cameron.patel@mail.net,Cameron Patel,NC,"LMSW, LMFT, LCSW","Wed Eve, Mon PM, Tue Eve, Tue AM",3
+S036,,morgan.davis@example.com,Morgan Davis,GA,"LMHC, LPCC","Wed Eve, Thu Eve, Mon AM, Tue PM",1
+S037,,alex.clark@mail.net,Alex Clark,PA,"LMFT, LPCC, LMHC","Fri Eve, Tue AM, Fri PM, Thu PM",4
+S038,,riley.davis@example.com,Riley Davis,FL,"LMFT, LMSW, LPC","Tue PM, Fri AM, Thu Eve, Mon AM",2
+S039,,sam.moore@mail.net,Sam Moore,FL,"LMFT, LCSW","Fri AM, Sat PM, Thu AM",2
+S040,,morgan.lee@example.com,Morgan Lee,NY,LMFT,"Fri Eve, Mon AM, Wed Eve, Tue Eve, Sat Eve",3
+S041,,alex.nguyen@example.com,Alex Nguyen,GA,"LMFT, LCSW","Fri AM, Mon Eve, Sat AM, Tue PM, Wed Eve",2
+S042,,jamie.lee@example.com,Jamie Lee,SC,"LCSW, LMFT","Mon PM, Fri AM, Mon AM, Tue PM, Fri Eve, Thu PM",2
+S043,,cameron.davis@example.com,Cameron Davis,VA,"LMSW, LPCC, LMHC","Sat AM, Tue PM, Thu AM, Thu Eve, Sat Eve",2
+S044,,quinn.davis@example.com,Quinn Davis,CA,"LMSW, LPCC, LMFT","Wed PM, Mon Eve, Mon AM",1
+S045,,drew.hernandez@example.com,Drew Hernandez,SC,"LMHC, LPCC","Mon AM, Wed PM, Sat AM",3
+S046,,avery.kim@example.com,Avery Kim,PA,"LCSW, LPCC, LMSW","Wed Eve, Mon Eve, Sat Eve, Tue AM, Thu Eve, Fri AM",2
+S047,,quinn.moore@sample.org,Quinn Moore,NY,"LMHC, LCSW","Thu AM, Mon PM, Wed AM, Sat PM, Sat Eve, Mon Eve",3
+S048,,drew.clark@mail.net,Drew Clark,FL,"LPCC, LMFT, LCSW","Mon PM, Sat AM, Wed Eve, Thu PM, Sat Eve, Thu Eve",2
+S049,,avery.nguyen@sample.org,Avery Nguyen,PA,"LMHC, LMSW","Tue AM, Wed AM, Thu AM, Mon PM, Wed PM, Mon AM",3
+S050,,sam.davis@sample.org,Sam Davis,NY,"LMHC, LMFT","Mon Eve, Sat Eve, Tue PM, Thu Eve",3
+S051,,jordan.wilson@example.com,Jordan Wilson,PA,"LCSW, LPC","Sat AM, Sat Eve, Fri AM, Mon AM",2
+S052,,avery.moore@sample.org,Avery Moore,NY,"LPC, LMFT","Thu Eve, Fri AM, Thu PM, Mon PM, Fri PM, Tue Eve",1
+S053,,casey.chen@sample.org,Casey Chen,SC,LMSW,"Thu AM, Wed Eve, Thu Eve",1
+S054,,riley.wilson@mail.net,Riley Wilson,SC,"LMHC, LPC","Wed Eve, Tue AM, Mon PM",3
+S055,,jordan.garcia@mail.net,Jordan Garcia,FL,"LPCC, LPC","Thu Eve, Fri PM, Mon AM, Fri AM",4
+S056,,jamie.garcia@example.com,Jamie Garcia,SC,LMSW,"Fri Eve, Tue PM, Thu AM, Wed PM, Mon AM, Wed Eve",2
+S057,,avery.chen@example.com,Avery Chen,TX,"LPC, LMSW","Fri AM, Wed PM, Thu AM, Sat PM, Wed Eve",4
+S058,,jordan.moore@sample.org,Jordan Moore,VA,LMFT,"Sat Eve, Wed PM, Fri Eve, Sat AM, Tue Eve, Fri AM",4
+S059,,jordan.davis@sample.org,Jordan Davis,GA,LCSW,"Thu PM, Mon Eve, Sat Eve, Tue AM",3

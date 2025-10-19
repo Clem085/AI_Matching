@@ -1,0 +1,13 @@
+type,color,sweetness,crunchiness,juiciness,acidity,fiber_g,sugar_g,seeds,has_peel,typical_weight_g,is_tropical,prediction,probability,top3
+fruit,orange,7.8,2.5,9.0,3.2,2.28,17.61,few,True,154,True,mango,0.7866666666666666,"mango,banana,orange"
+fruit,red,4.7,6.6,5.1,4.7,3.36,17.29,few,True,198,False,apple,0.9733333333333334,"apple,pear,bell_pepper"
+vegetable,orange,4.6,7.0,1.9,2.1,2.23,5.85,none,False,71,False,carrot,1.0,"carrot,apple,bell_pepper"
+vegetable,orange,4.7,7.9,3.8,2.5,2.81,6.06,none,False,76,False,carrot,1.0,"carrot,apple,bell_pepper"
+fruit,red,6.7,5.4,6.9,4.7,4.58,21.17,few,True,192,False,apple,0.9566666666666667,"apple,pear,bell_pepper"
+fruit,brown,6.8,2.1,8.3,3.0,0.46,6.76,many,True,9855,False,watermelon,0.9233333333333333,"watermelon,pineapple,pear"
+vegetable,red,5.0,2.9,8.4,3.2,1.7,4.99,many,False,123,False,tomato,0.9933333333333333,"tomato,strawberry,apple"
+vegetable,green,3.5,4.6,6.5,2.1,1.65,2.7,many,True,117,False,bell_pepper,1.0,"bell_pepper,apple,banana"
+fruit,red,5.3,2.7,8.0,4.2,2.17,6.31,many,False,21,False,strawberry,0.9966666666666667,"strawberry,tomato,apple"
+fruit,brown,6.6,1.8,9.7,6.2,1.83,9.16,many,True,1018,True,pineapple,0.99,"pineapple,orange,apple"
+vegetable,green,3.6,5.2,5.9,1.7,0.49,2.06,few,True,327,False,cucumber,0.92,"cucumber,bell_pepper,potato"
+fruit,yellow,7.5,3.0,5.9,3.4,2.36,15.43,none,True,120,True,banana,0.9933333333333333,"banana,mango,orange"
